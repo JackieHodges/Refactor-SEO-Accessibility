@@ -71,7 +71,9 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* content styling */
+/* changed from class to content tag */
+content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
