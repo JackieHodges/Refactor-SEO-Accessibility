@@ -1,3 +1,5 @@
+/* general styling */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header and navigation styling */
+/* header and navigation styling */
 
 header {
     padding: 20px;
@@ -43,7 +45,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Body styling */
+/* body styling */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,6 +55,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* image styling */
 
 .hero {
     height: 800px;
@@ -73,6 +78,7 @@ p {
 }
 
 /* content styling */
+
 /* moved content styling to before aside styling */
 /* changed from class to content tag */
 content {
@@ -101,6 +107,7 @@ content article h2 {
 }
 
 /* aside styling */
+
 /* changed from benefits class to aside tag */
 aside{
     margin-right: 20px;
@@ -113,7 +120,7 @@ aside{
     background-color: #2589bd;
 }
 
-/* Consolidated benefit styling tags to single benefit article */
+/* consolidated benefit styling tags to single benefit article */
 aside article {
     margin-bottom: 32px;
     color: #ffffff;
@@ -131,6 +138,7 @@ aside article img {
 }
 
 /* footer styling */
+
 footer {
     padding: 30px;
     clear: both;
