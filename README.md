@@ -24,16 +24,26 @@ While the content nor styling of the page changed, the changes mentioned above w
 * [Credits](#credits)
 * [License](#license)
 
+
 ## Installation
 
 To install, pull repository and open html file in browser. Repository can be found here: [Refactor SEO Accessibility](https://github.com/JackieHodges/Refactor-SEO-Accessibility)
 
+Otherwise, the github page can be found here: [Refactored Webpage](https://jackiehodges.github.io/Refactor-SEO-Accessibility/)
+
 
 ## Usage
 
+Below are screenshots of the github page:
 
+```md
+![alt text](assets/images/screenshot1.png)
+```
 
-## Credits
+```md
+![alt text](assets/images/screenshot2.png)
+```
 
-
-## License
+```md
+![alt text](assets/images/screenshot3.png)
+```
