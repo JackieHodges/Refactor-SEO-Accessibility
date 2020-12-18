@@ -21,8 +21,6 @@ While the content nor styling of the page changed, the changes mentioned above w
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
 
 
 ## Installation
@@ -36,14 +34,13 @@ Otherwise, the github page can be found here: [Refactored Webpage](https://jacki
 
 Below are screenshots of the github page:
 
-```md
-![alt text](assets/images/screenshot1.png)
-```
 
-```md
-![alt text](assets/images/screenshot2.png)
-```
+![screenshot 1](assets/images/screenshot1.png)
 
-```md
-![alt text](assets/images/screenshot3.png)
-```
+
+
+![screenshot 2](assets/images/screenshot2.png)
+
+
+
+![screenshot 3](assets/images/screenshot3.png)
